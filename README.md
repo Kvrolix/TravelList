@@ -2,6 +2,8 @@
 
 The **Packing List App** is a simple and interactive React application designed to help users organize and manage their packing for trips. Add, delete, sort, and track the status of your items with ease while enjoying a clean and intuitive interface.
 
+![appShowcase](assets/TravelListGif.gif)
+
 ---
 
 ## 🚀 Features
@@ -108,7 +110,9 @@ This project helped me deepen my understanding of React fundamentals and explore
 ---
 
 ## 📷 Screenshots
-*Include screenshots or a demo GIF of your application to make it visually appealing.*
+[start](assets/image1.png)
+[addItems](assets/Image2.png)
+[options](assets/Image3.png)
 
 ---
 
