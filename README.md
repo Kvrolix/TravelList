@@ -110,9 +110,11 @@ This project helped me deepen my understanding of React fundamentals and explore
 ---
 
 ## 📷 Screenshots
-![start](assets/image1.png)
-![addItems](assets/Image2.png)
-![options](assets/Image3.png)
+![start](assets/image1.PNG)
+
+![addItems](assets/Image2.PNG)
+
+![options](assets/Image3.PNG)
 
 ---
 
